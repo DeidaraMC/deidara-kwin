@@ -1,0 +1,13 @@
+{
+  "KPlugin": {
+    "Name": "Deidara Shortcuts",
+    "Description": "Custom Shortcuts",
+    "Icon": "preferences-system-windows",
+    "Id": "deidara-shortcuts",
+    "Version": "1.0",
+    "License": "GPLv3"
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js",
+  "KPackageStructure": "KWin/Script"
+}
