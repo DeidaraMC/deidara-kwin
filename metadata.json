@@ -3,7 +3,7 @@
     "Name": "Deidara Shortcuts",
     "Description": "Custom Shortcuts",
     "Icon": "preferences-system-windows",
-    "Id": "deidara-shortcuts",
+    "Id": "deidara-kwin",
     "Version": "1.0",
     "License": "GPLv3"
   },
